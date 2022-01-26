@@ -340,7 +340,7 @@ My Services section
 
 .my-services {
     background-color: var(--clr-dark);
-    background-image: url("my_services.png");
+    background-image: url("/my_services_background.png");
     background-size: cover;
     background-blend-mode: multiply;
     background-position: center;
